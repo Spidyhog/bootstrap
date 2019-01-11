@@ -169,7 +169,7 @@ Spinner
   height: 500px;
   width: 500px;
   position: absolute;
-  top: 20px;
+  top: 100px;
   left: 50%;
   margin-left: -250px;
   overflow: hidden;
